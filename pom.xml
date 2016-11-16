@@ -40,7 +40,7 @@
 	<connection>scm:git:git@github.com:ronisinaga/contoh3.git</connection>
 	<url>scm:git:git@github.com:ronisinaga/contoh3.git</url>
 	<developerConnection>scm:git:git@github.com:ronisinaga/contoh3.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>contoh03</tag>
   </scm>
   <build>
 	<plugins>
