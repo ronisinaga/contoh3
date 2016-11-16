@@ -1,7 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <changelog>
   
-<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20161017 09:06:00 ICT" end="20161117 09:06:00 ICT">
+<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20161017 09:25:51 ICT" end="20161117 09:25:51 ICT">
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2016-11-16</date>
+		<time pattern="HH:mm:ss">09:21:03</time>
+		<author><![CDATA[ronisinaga <dragonif01@gmail.com>]]></author>
+		<file>
+			<action>modified</action>
+			<name>pom.xml</name>
+			<revision>3b2fcca680b356bde34a3be7570a9b65b9acda0a</revision>
+		</file>
+		<msg><![CDATA[[maven-release-plugin] prepare for next development iteration]]></msg>
+	</changelog-entry>
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2016-11-16</date>
+		<time pattern="HH:mm:ss">09:20:46</time>
+		<author><![CDATA[ronisinaga <dragonif01@gmail.com>]]></author>
+		<file>
+			<action>modified</action>
+			<name>pom.xml</name>
+			<revision>4fc704502db432cf30bbdafab3560c783c8b3667</revision>
+		</file>
+		<msg><![CDATA[[maven-release-plugin] prepare release contoh01-1.1.roni]]></msg>
+	</changelog-entry>
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2016-11-16</date>
+		<time pattern="HH:mm:ss">09:14:33</time>
+		<author><![CDATA[ronisinaga <dragonif01@gmail.com>]]></author>
+		<file>
+			<action>modified</action>
+			<name>pom.xml</name>
+			<revision>0f583833630e2990dd49f7785c90fde0719b3fb7</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/checkout</name>
+			<revision>0f583833630e2990dd49f7785c90fde0719b3fb7</revision>
+		</file>
+		<msg><![CDATA[commit]]></msg>
+	</changelog-entry>
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2016-11-16</date>
+		<time pattern="HH:mm:ss">09:06:06</time>
+		<author><![CDATA[ronisinaga <dragonif01@gmail.com>]]></author>
+		<file>
+			<action>added</action>
+			<name>target/changelog.xml</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/changelog.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/css/maven-base.css</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/css/maven-theme.css</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/css/print.css</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/css/site.css</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/dependencies.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/dependency-convergence.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/dependency-info.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/dev-activity.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/distribution-management.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/file-activity.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/close.gif</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/collapsed.gif</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/expanded.gif</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/external.png</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/icon_error_sml.gif</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/icon_info_sml.gif</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/icon_success_sml.gif</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/icon_warning_sml.gif</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/logos/build-by-maven-black.png</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/logos/build-by-maven-white.png</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/logos/maven-feather.png</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/images/newwindow.png</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/index.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/plugin-management.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/plugins.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/project-info.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/project-reports.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/project-summary.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/source-repository.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>target/site/team-list.html</name>
+			<revision>97e6b56c818ec1e1492b2eb8aaa7de875d11529e</revision>
+		</file>
+		<msg><![CDATA[commit the project again]]></msg>
+	</changelog-entry>
 	<changelog-entry>
 		<date pattern="yyyy-MM-dd">2016-11-16</date>
 		<time pattern="HH:mm:ss">09:05:57</time>
