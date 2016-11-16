@@ -53,11 +53,11 @@
   </build>
   <distributionManagement>
 		<!-- start - location where site is deployed - username/password for site.deployments in server.xml -->
-		<site>
-			<id>site.deployments</id>
-			<name>Site deployments</name>
-			<url>http://localhost:8080/sites/${artifactId}/</url>
-		</site>
+		<repository>
+		  <id>contoh01</id>
+		  <name>Contoh01 Repository</name>
+		  <url>http://localhost:8080/sites/{project.artifactId}</url>
+		</repository>
 		<!-- end - location where site is deployed - username/password for site.deployments in server.xml -->
   </distributionManagement>
 </project>
